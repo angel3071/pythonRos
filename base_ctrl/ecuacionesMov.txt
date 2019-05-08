@@ -1,0 +1,9 @@
+VL = -kea + kd*r*(1-|sat(ea)|/ksat)
+VR = kea
+ea = atan2(yd -yr, xd -xr) - thetar
+k = 0.5
+xd = xDeseada
+yd = yDeseada
+Frej = 1/n E i->n Kr(1/d-1/do)^0.5 (q-qoi)u/d^3
+Fatt = Ka (qg -q)
+Pi+1 = P0 + alpha*(Fr)u
